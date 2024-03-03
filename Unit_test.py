@@ -29,5 +29,7 @@ class TestDemoBlaze(unittest.TestCase):
         self.driver.find_element(By.XPATH, "//button[contains(text(),'Log in')]").click()
         sleep(1)
 
+#aici urmeaza restul testelor
+
 if __name__ == "__main__":
     unittest.main()
