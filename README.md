@@ -1,5 +1,6 @@
 Site tested: https://www.https://www.demoblaze.com/ 
 Design pattern used: Unit Testing Methodology
+
 To import project
 git clone https://github.com/Ioan-Dumitrica/ProiectFinal-TA.git
 
