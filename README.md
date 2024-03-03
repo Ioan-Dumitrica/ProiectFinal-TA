@@ -1,7 +1,7 @@
-Site tested: https://www.https://www.demoblaze.com/ 
-Design pattern used: Unit Testing Methodology
+Site-ul de test: https://www.https://www.demoblaze.com/ 
+Design pattern folosit: Unit Testing Methodology
 
-To import project
+Pentru a importa projectul folositi:
 git clone https://github.com/Ioan-Dumitrica/ProiectFinal-TA.git
 
 Libraries to install:
